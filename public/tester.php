@@ -1,1 +1,1 @@
-<?php if (class_exists('PDO')) echo "hi";?>
+<?php phpinfo();?>
